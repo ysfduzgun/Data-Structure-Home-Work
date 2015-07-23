@@ -1,8 +1,11 @@
-# Data-Structure-Home-Work
+## Data-Structure-Home-Work
 
-Examples
-Data sctructure home work for scholl.
+Data structure home work for scholl.
 
-Java and Data structure It s humorous
-but Home work i must do it :).
+Java & Data Structure with Gui(Java Swing)
 
+* Static Stack
+* Static Queue
+* Singly Linked List Stack
+* Singly Linked List Queue
+* Dual Linked List
